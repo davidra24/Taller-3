@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 /**
- * @author David Soler
+ * @author David Ramírez
  */
 @WebServlet(name="ProcesarFormulario", urlPatterns = {"/ProcesarFormulario"})
 public class ProcesarFormulario extends HttpServlet{
